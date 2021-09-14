@@ -1,0 +1,1 @@
+Class component itu di root nya (di parent nya), selain itu bsa pakai functional component
